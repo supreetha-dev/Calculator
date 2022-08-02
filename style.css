@@ -1,0 +1,22 @@
+#clear{
+    width: 110px;
+}
+.formstyle{
+    margin: auto;
+    width: 130px;
+    height: 200px;
+    border: 2px solid black;
+    padding: 20px;
+    background-color: rgb(41, 41, 109);
+}
+ #answer{
+     width:110px;
+ }
+ input{
+     padding: 2 10 2 10;
+     margin: 3px;
+     background-color: black;
+     color: white;
+     width: 30px;
+ }
+ 
